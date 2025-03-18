@@ -19,3 +19,5 @@ This project demonstrates the essential steps of building a classification model
 #OUTPUT :-
 
 ![Image](https://github.com/user-attachments/assets/0d376c07-a080-4d07-8cb4-d4bb2505c2b7)
+
+![Image](https://github.com/user-attachments/assets/594b2098-59e3-4792-b9c6-98006756f100)
